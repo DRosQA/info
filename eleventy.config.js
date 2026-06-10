@@ -6,4 +6,13 @@ module.exports = async function (eleventyConfig) {
             return a.data.order - b.data.order; // sort by date - ascending
         });
     });
+    const options = {
+        year: 'numeric', month: 'numeric', day: 'numeric',
+        hour: undefined,
+        minute: undefined,
+        second: undefined,
+    };
+    eleventyConfig.addFilter("readableDate", dateObj => {
+        return dateObj.toLocaleString("en-GB", options)
+    })
 }

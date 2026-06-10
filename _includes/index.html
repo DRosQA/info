@@ -14,12 +14,16 @@
 <body>
     <main>
         <h1>DRosQA</h1>
-        <p>testing webapps since 2013</p>
+        <div class="subtitle">
+        <span>testing webapps since 2013</span>
+        <span>Last updated: {{page.date | readableDate}}</span>
+        </div>
         <hr>
         <section>
             {{content}}
         </section>
     </main>
+    
 </body>
 
 </html>
