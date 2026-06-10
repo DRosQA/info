@@ -8,4 +8,4 @@ order: 5
 
 [GitHub](https://github.com/DRosQA)
 
-dorota.roskowska**[at]**gmail.com
+dorota.roskowska<strong>[at]</strong>gmail.com
