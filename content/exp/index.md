@@ -15,7 +15,7 @@ for test automation
 
 ### Previously
 #### IT
-- Quality Assurance Specialist, with automation / Oct  2017 - Oct 2020 / [Striped Giraffe](https://www.striped-giraffe.com/en/) / [Python](https://www.python.org/), [Robot Framework](https://robotframework.org/), [Gherkin](https://cucumber.io/docs/gherkin/)) / e-commerce
+- Quality Assurance Specialist, with automation / Oct  2017 - Sep 2020 / [Striped Giraffe](https://www.striped-giraffe.com/en/) / [Python](https://www.python.org/), [Robot Framework](https://robotframework.org/), [Gherkin](https://cucumber.io/docs/gherkin/) / e-commerce
 - Quality Assurance Team Leader / Jan 2016 - Sep 2017 / [Webanywhere](https://www.webanywhere.com/) / education
 - Quality Assurance Specialist / Oct 2015 - Dec 2016 / [Webanywhere](https://www.webanywhere.com/) / education
 - Junior Quality Assurance Specialist / Jun 2013 - Sep 2014 / [Webanywhere](https://www.webanywhere.com/) / education
