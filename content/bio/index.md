@@ -11,7 +11,7 @@ order: 1
 … an excellent addition to any team needing a bit of structure and someone down-to-earth.  
 
 ### I work…  
-… profesionally, in a small, self-managing team of test automation developers, supporting manual testes in covering regression testing.  
+… professionally, in a small, self-managing team of test automation developers, supporting manual testers in covering regression testing.  
 … personally, solo on small, creative projects used for self-expression and sharing resources with the communities I'm a part of. 
 
 ### I dream…

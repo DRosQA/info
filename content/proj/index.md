@@ -13,8 +13,8 @@ Here's a brief of things I work on in my spare time. As you can see, only some o
 ### Hobby projects
 - personal webpage serving as a hub of my online presence
 - curated collection of interesting quotes
-- Youtube channel for my opinions and short video essays
-- transformative prose works
+- YouTube channel for my opinions and short video essays
+- [transformative](https://en.wikipedia.org/wiki/Transformative_use) prose works
 - set of useful macros for an online gaming platform
 - [Obsidian](https://obsidian.md/) notes for several [group storytelling games](https://en.wikipedia.org/wiki/Role-playing_game) that I participate in
-- components for fantasy worldbuilding (maps, characters, cultures etc.) shared under CC license
+- components for fantasy world-building (maps, characters, cultures etc.) shared under CC license
