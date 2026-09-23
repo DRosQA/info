@@ -26,4 +26,4 @@ for test automation
 ### Education
 - [ISTQB® Certified Tester](https://istqb.org/), Foundation Level / 2014 / gasq Service GmbH
 - English B2 certificate / 2011 / [Foreign Language Teaching Centre University of Silesia](https://us.edu.pl/en/)
-- Inter-Faculty Individual Studies in Humanities / 2009 - 2012 / [University of Silesia](https://us.edu.pl/en/)
+- College of Interdisciplinary Individual Studies in Humanities and Social Sciences / 2009 - 2012 / [University of Silesia](https://us.edu.pl/en/)
