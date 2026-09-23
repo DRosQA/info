@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta description="Online business card for Dorota Roskowska">
     <title>DRoskQA</title>
-    <link rel="stylesheet" href="{{'/info/assets/default.css' | url}}" />
+    <link rel="stylesheet" href="{{'/assets/default.css' | url}}" />
     <base target="_blank">
 </head>
 
@@ -16,7 +16,7 @@
         <h1>DRosQA</h1>
         <div class="subtitle">
         <span>testing webapps since 2013</span>
-        <span>Last updated: {{page.date | readableDate}}</span>
+        <span>Last updated: {{"now" | date: "%m/%Y" }}</span>
         </div>
         <hr>
         <section>
