@@ -12,7 +12,7 @@ layout: index.html
 	<details name="openTab" {{ tab.data.default }}>
 		<summary>{{ tab.data.title }}</summary>
 		<div>
-			{{ tab.content }}
+			{{ tab.content }}	
 		</div>
 	</details>
 {%- endfor -%}

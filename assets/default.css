@@ -8,14 +8,18 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap");
 
 :root {
   --tab-color-active: hsl(0, 0%, 60%);
   --tab-color-base: hsl(0, 0%, 90%);
   --section-size: 60vh;
-  font-family: "Mozilla Headline", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-feature-settings: 'liga' 1, 'calt' 1;
+  font-family:
+    "Mozilla Headline", "Franklin Gothic Medium", "Arial Narrow", Arial,
+    sans-serif;
+  font-feature-settings:
+    "liga" 1,
+    "calt" 1;
   /* fix for Chrome */
 }
 
@@ -47,11 +51,13 @@ h2 {
   text-transform: uppercase;
 }
 
-h2,
+h2 {
+  margin: 0;
+}
 h3,
 h4,
 h5 {
-  margin: 0;
+  margin: 1rem 0;
 }
 
 p {
@@ -60,10 +66,10 @@ p {
   line-height: 1.5;
 }
 
-ul{
+ul {
   line-height: 1.5;
 }
-.subtitle{
+.subtitle {
   display: flex;
   flex-direction: row;
   gap: 1rem;
@@ -84,13 +90,13 @@ section {
   }
 }
 
-details {
+details:not(.noformat) {
   display: grid;
   grid-template-columns: 3rem auto;
   margin-bottom: 1rem;
 }
 
-summary {
+summary:not(.noformat) {
   cursor: pointer;
   list-style-type: none;
   grid-column: 1;
@@ -102,7 +108,7 @@ summary {
   background-color: var(--tab-color-base);
 }
 
-details>div {
+details > div {
   flex: 1 1 var(--section-size);
   position: absolute;
   top: 0;
