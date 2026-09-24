@@ -1,0 +1,73 @@
+{
+  "Cyclad": {
+    "link": "https://cyclad.eu/",
+    "role": "Senior QA Automation Engineer",
+    "start": "10.2020",
+    "description": "Developed a centralized testing platform for a complex ecosystem of credit and insurance reporting systems. The solution replaced a fragmented set of legacy tools, including Ranorex, Postman, SpecFlow, and custom Java-based frameworks, with a unified C# testing ecosystem. The desktop application enables manual QA engineers to execute Web UI and API regression test suites with minimal programming expertise, while ensuring seamless integration with automated CI/CD pipelines. This significantly improved test consistency, maintainability, and overall testing efficiency across multiple systems, reducing regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within 3 hours.",
+    "stack": [
+      "C#",
+      ".NET",
+      "nUnit",
+      "Selenium WebDriver",
+      "SQLite",
+      "QTest",
+      "JIRA",
+      "Azure DevOps",
+      "Bitbucket"
+    ],
+    "responsibilities": [
+      "Developed automated web UI and API tests, from zero to full scope coverage of core features, which reduced regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within hours",
+      "Developed and maintaining an in-house desktop testing application used by QA teams to execute automated test scenarios, replacing a complex web of several legacy tools",
+      "Designed and implemented a scalable, layered test automation architecture from scratch, including reusable frameworks, libraries, and testing components",
+      "Created and maintained databases for test user credentials and test data management",
+      "Collected and archived test execution metrics, automation usage statistics and test results",
+      "Implemented JSON-based configuration management and prepared manuals for non-technical users",
+      "Collaborated within an Agile, self-organizing team environment, contributing to continuous improvement initiatives and delivery planning",
+      "Developed and maintained automated Web UI and API regression test suites, expanding scope coverage from zero to full validation of critical business processes"
+    ]
+  },
+  "Striped Giraffe": {
+    "link": "https://striped-giraffe.com/en/",
+    "role": "Quality Assurance Specialist",
+    "start": "10.2017",
+    "end": "10.2020",
+    "description": "Developed bespoke solutions for clients utilizing SAP systems, collaborating closely with cross-functional teams across multiple countries and external partners such as Accenture.",
+    "stack": [
+      "C#",
+      ".NET",
+      "nUnit",
+      "Selenium WebDriver",
+      "SQLite",
+      "QTest",
+      "JIRA",
+      "Azure DevOps",
+      "Bitbucket"
+    ],
+    "responsibilities": [
+      "Executed functional Web UI tests of bespoke modifications within SAP Hybris platform",
+      "Designed and developed automated test solutions for end-to-end business processes and data flow validation",
+      "Reviewed and analyzed system requirements and technical specifications",
+      "Prepared and maintained test data, test cases, documentation, test execution reports and end-user manuals",
+      "Performed root cause analysis and issue resolution",
+      "Mentored a fellow QA Specialist in test automation practices, supporting their transition from manual to automated testing"
+    ]
+  },
+  "Webanywhere": {
+    "link": "https://www.webanywhere.com/",
+    "role": "QA Team Leader, Quality Assurance Specialist",
+    "start": "06.2013",
+    "end": "09.2017",
+    "description": "Created web-based platforms for schools and educational institutions, developing new tailored solutions and enhancing existing e-learning systems.",
+    "stack": [
+      "Selenium IDE, Selenium WebDriver, Java, Redmine, TestLink, Moodle, Totara"
+    ],
+    "responsibilities": [
+      "Performed functional Web UI tests of CMS tools, bespoke modifications for the Totara/Moodle system and cross-system integrations with Capita SIMS",
+      "Validated the security and confidentiality of sensitive personal data processed within tested systems",
+      "Designed and developed an automated functional Web UI and performance test suites",
+      "Managed and mentored a team of QA Specialists (3-5 FTE) across multiple projects",
+      "Tested implementations interacting across multiple time zones with highly time-specific events, handling high user traffic and large-scale databases (1mln overall and up to 100k concurrent users)",
+      "Led the transition from manual to automated testing by defining automation strategy, implementing a test automation framework from scratch and mentoring other QA"
+    ]
+  }
+}

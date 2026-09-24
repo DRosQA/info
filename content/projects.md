@@ -1,7 +1,7 @@
 ---
 title: PROJ
 tags: tabs
-order: 3
+order: 4
 ---
 ## PROJECTS
 Here's a brief of things I work on in my spare time. As you can see, only some of them are linked. I care deeply about work-life balance as well as cybersecurity. I do not associate my hobby projects with my legal name, and keep my professional matters separate from my private online persona. As such, I won't link to my personal projects from a public website with my government name, but you can ask about them in private!  

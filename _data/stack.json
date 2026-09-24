@@ -1,0 +1,16 @@
+{
+  "tech": [
+    "C# (Visual Studio, Visual Studio Code, .NET, nUnit, Selenium WebDriver)",
+    "Python (PyCharm, Robot Framework, Gherkin, Cucumber, Selenium WebDriver)",
+    "Xpath, JSON, markdown",
+    "git (GitHub, Azure DevOps, Bitbucket)",
+    "HTML, CSS, Eleventy, basics of javascript, REST API",
+    "JIRA, Confluence, office software suite (spreadsheets, presentations, word processors)"
+  ],
+  "lang": [
+    "Polish (native)",
+    "English (C2)",
+    "German (A1)",
+    "French (passive understanding)"
+  ]
+}
