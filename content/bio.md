@@ -21,3 +21,7 @@ order: 1
 
 … of working with documentation maintenance. I enjoy technical writing and sorting data, and feel fulfilled when I can help others with well-kept references and guides.  
 … of working in game dev, like most gamers. The allure of being a part of creating something you love and are involved in, instead of simply clocking in hours at work, is strong.
+
+---
+
+30+yo | they/them | Katowice Metropolitan Area
