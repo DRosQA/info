@@ -24,4 +24,6 @@ order: 1
 
 ---
 
+**Dorota**
+
 30+yo | they/them | Katowice Metropolitan Area

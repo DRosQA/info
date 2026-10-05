@@ -9,6 +9,7 @@ Here's a brief of things I work on in my spare time. As you can see, only some o
 ### Public projects
 - [calculator for cat food needs](https://github.com/DRosQA/CatFoodCalc)
 - [this web page!](https://github.com/DRosQA/info)
+- and some repos with basic code examples in various languages I keep as reference for myself
 
 ### Hobby projects
 - personal webpage serving as a hub of my online presence
