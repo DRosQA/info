@@ -26,4 +26,4 @@ order: 1
 
 **Dorota**
 
-30+yo | they/them | Katowice Metropolitan Area
+Software Development Engineer in Test | 30+yo | they/them | Katowice Metropolitan Area
