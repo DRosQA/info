@@ -7,7 +7,7 @@ order: 1
 ## ABOUT ME
 **Dorota**
 
-Software Development Engineer in Test | 30+yo | they/them | Katowice Metropolitan Area
+Software Quality Assurance Engineer | 30+yo | they/them | Katowice Metropolitan Area
 
 ---
 
