@@ -33,15 +33,11 @@
     "end": "10.2020",
     "description": "Developed bespoke solutions for clients utilizing SAP systems, collaborating closely with cross-functional teams across multiple countries and external partners such as Accenture.",
     "stack": [
-      "C#",
-      ".NET",
-      "nUnit",
-      "Selenium WebDriver",
-      "SQLite",
-      "QTest",
-      "JIRA",
-      "Azure DevOps",
-      "Bitbucket"
+      "Python",
+      "Robot Framework",
+      "Gherkin",
+      "Confluence",
+       "JIRA",
     ],
     "responsibilities": [
       "Executed functional Web UI tests of bespoke modifications within SAP Hybris platform",
