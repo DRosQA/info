@@ -1,10 +1,10 @@
 {
   "tech": [
     "C# (Visual Studio, Visual Studio Code, .NET, nUnit, Selenium WebDriver)",
-    "Python (PyCharm, Robot Framework, Gherkin, Selenium WebDriver)",
+    "Python (PyCharm, Robot Framework, Selenium WebDriver)",
     "Xpath, JSON, markdown",
     "git (GitHub, Azure DevOps, Bitbucket)",
-    "HTML, CSS, Eleventy, basics of javascript, REST API",
+    "HTML, CSS, Eleventy, basics of javascript, REST API, Gherkin",
     "JIRA, Confluence, office software suite (spreadsheets, presentations, word processors)"
   ],
   "lang": [
