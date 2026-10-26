@@ -7,7 +7,7 @@ order: 4
 Here's a brief of things I work on in my spare time. As you can see, only some of them are linked. I care deeply about work-life balance as well as cybersecurity. I do not associate my hobby projects with my legal name, and keep my professional matters separate from my private online persona. As such, I won't link to my personal projects from a public website with my government name, but you can ask about them in private!  
 
 ### Public projects
-- [calculator for cat food needs](https://github.com/DRosQA/CatFoodCalc)
+- [calculator for cat food needs](https://github.com/DRosQA/CatFoodCalc) (perpetually in progress)
 - [small platformer game testing the GodotEngine](https://github.com/DRosQA/SwampAdventure)
 - [this web page!](https://github.com/DRosQA/info)
 - and some repos with basic code examples in various languages I keep as reference for myself
