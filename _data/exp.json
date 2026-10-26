@@ -3,7 +3,7 @@
     "link": "https://cyclad.eu/",
     "role": "Senior QA Automation Engineer",
     "start": "10.2020",
-    "description": "Developed a centralized testing platform for a complex ecosystem of credit and insurance reporting systems. The solution replaced a fragmented set of legacy tools, including Ranorex, Postman, SpecFlow, and custom Java-based frameworks, with a unified C# testing ecosystem. The desktop application enables manual QA engineers to execute Web UI and API regression test suites with minimal programming expertise, while ensuring seamless integration with automated CI/CD pipelines. This significantly improved test consistency, maintainability, and overall testing efficiency across multiple systems, reducing regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within 3 hours.",
+    "description": "Developed a centralized testing platform for a complex ecosystem of credit and insurance reporting systems. The solution replaced a fragmented set of legacy tools, including Ranorex, Postman, SpecFlow, and custom Java-based frameworks, with a unified C# testing solution. The desktop application enables manual QA engineers to execute Web UI and API regression test suites with minimal programming expertise, while ensuring seamless integration with automated CI/CD pipelines. This significantly improved test consistency, maintainability, and overall testing efficiency across multiple systems, reducing regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within 3 hours.",
     "stack": [
       "C#",
       ".NET",
@@ -18,7 +18,7 @@
     "responsibilities": [
       "Developed automated web UI and API tests, from zero to full scope coverage of core features, which reduced regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within hours",
       "Developed and maintaining an in-house desktop testing application used by QA teams to execute automated test scenarios, replacing a complex web of several legacy tools",
-      "Designed and implemented a scalable, layered test automation architecture from scratch, including reusable frameworks, libraries, and testing components",
+      "Designed and implemented a scalable, layered test automation architecture from scratch, including project-specific libraries and reusable testing components",
       "Created and maintained databases for test user credentials and test data management",
       "Collected and archived test execution metrics, automation usage statistics and test results",
       "Implemented JSON-based configuration management and prepared manuals for non-technical users",
