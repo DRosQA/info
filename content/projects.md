@@ -8,15 +8,17 @@ Here's a brief of things I work on in my spare time. As you can see, only some o
 
 ### Public projects
 - [calculator for cat food needs](https://github.com/DRosQA/CatFoodCalc) (perpetually in progress)
-- [small platformer game testing the GodotEngine](https://github.com/DRosQA/SwampAdventure)
+- [small platofrmer game in Godot engine](https://github.com/DRosQA/SwampAdventure)
+- practice repositories with coding exercises, examples and templates
+    - [Selenium + C# automated testing](https://github.com/DRosQA/template-tests-selenium-csharp)
+    - [Selenium + Python automated testing](https://github.com/DRosQA/template-tests-selenium-python)
+    - [coding exercises in C#](https://github.com/DRosQA/learning-exercises-csharp)
+    - [coding exercises in Python](https://github.com/DRosQA/learning-exercises-python)
 - [this web page!](https://github.com/DRosQA/info)
-- and some repos with basic code examples in various languages I keep as reference for myself
 
-### Hobby projects
+### Private projects
 - personal webpage serving as a hub of my online presence
-- curated collection of interesting quotes
-- YouTube channel for my opinions and short video essays
+- curated digital collection of interesting quotes
 - [transformative](https://en.wikipedia.org/wiki/Transformative_use) prose works
-- set of useful macros for an online gaming platform
 - [Obsidian](https://obsidian.md/) notes for several [group storytelling games](https://en.wikipedia.org/wiki/Role-playing_game) that I participate in
 - components for fantasy world-building (maps, characters, cultures etc.) shared under CC license

@@ -1,7 +1,7 @@
 {
   "Cyclad": {
     "link": "https://cyclad.eu/",
-    "role": "Senior QA Automation Engineer",
+    "role": "QA Automation Engineer",
     "start": "10.2020",
     "description": "Developed a centralized testing platform for a complex ecosystem of credit and insurance reporting systems. The solution replaced a fragmented set of legacy tools, including Ranorex, Postman, SpecFlow, and custom Java-based frameworks, with a unified C# testing solution. The desktop application enables manual QA engineers to execute Web UI and API regression test suites with minimal programming expertise, while ensuring seamless integration with automated CI/CD pipelines. This significantly improved test consistency, maintainability, and overall testing efficiency across multiple systems, reducing regression testing from a multi-day effort requiring several testers to a fully automated process that that produces reliable results within 3 hours.",
     "stack": [
@@ -37,7 +37,7 @@
       "Robot Framework",
       "Gherkin",
       "Confluence",
-       "JIRA",
+       "JIRA"
     ],
     "responsibilities": [
       "Executed functional Web UI tests of bespoke modifications within SAP Hybris platform",
